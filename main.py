@@ -10,7 +10,7 @@ def say_hello(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     # comment added
-    name = 'Ritesh'
+    name = 'ritesh'
     say_hello(name)
     up = to_upper(name)
     print(up)

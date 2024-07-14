@@ -12,5 +12,5 @@ if __name__ == '__main__':
     # comment added
     name = 'ritesh'
     say_hello(name)
-    up = to_upper(namee)
+    up = to_upper(name)
     print(up)
